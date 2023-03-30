@@ -1,10 +1,7 @@
 import time
 
 from backend.util.crypto_hash import crypto_hash
-<<<<<<< HEAD
-=======
 from backend.util.hex_to_binary import hex_to_binary
->>>>>>> a77fccd... Complete proof of work section
 from backend.config import MINE_RATE
 
 GENESIS_DATA = {
