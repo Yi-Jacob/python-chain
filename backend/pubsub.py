@@ -7,8 +7,8 @@ from pubnub.callbacks import SubscribeCallback
 from backend.blockchain.block import Block
 
 pnconfig = PNConfiguration()
-pnconfig.subscribe_key = 'sub-c-b7b791b4-74bc-42f5-949a-b9a74f6c4b28'
-pnconfig.publish_key = 'pub-c-d541445a-2b6a-44f7-a8b6-2ca91f7cc8a2'
+pnconfig.subscribe_key = 'sub-c-666638f6-ec63-11e9-b715-9abbdb5d0da2'
+pnconfig.publish_key = 'pub-c-82bf7695-ce5e-4bc5-9cd9-a8f8147dc2a8'
 
 CHANNELS = {
     'TEST': 'TEST',
