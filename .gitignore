@@ -168,6 +168,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+blockchain-env
 env.bak/
 venv.bak/
 
