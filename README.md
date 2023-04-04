@@ -1,4 +1,4 @@
-**Activate the virtual environment in terminal**
+**Activate the virtual environment**
 ```
 source blockchain-env/bin/activate
 ```
