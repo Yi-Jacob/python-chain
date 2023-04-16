@@ -24,6 +24,7 @@ function App() {
       <Link to="/transaction-pool">Transaction Pool</Link>
       <br />
       <div className="WalletInfo">
+        <h4>Your Wallet</h4>
         <div>Address: {address}</div>
         <div>Balance: {balance}</div>
       </div>
